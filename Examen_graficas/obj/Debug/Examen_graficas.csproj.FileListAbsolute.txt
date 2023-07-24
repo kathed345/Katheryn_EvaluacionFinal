@@ -1,0 +1,10 @@
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\bin\Debug\Examen_graficas.exe.config
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\bin\Debug\Examen_graficas.exe
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\bin\Debug\Examen_graficas.pdb
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.csproj.AssemblyReference.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.Form1.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.Properties.Resources.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.csproj.GenerateResource.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.csproj.CoreCompileInputs.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.exe
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\Examen_graficas\obj\Debug\Examen_graficas.pdb
